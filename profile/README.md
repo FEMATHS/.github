@@ -1,10 +1,12 @@
 # FEMATHS
 
-![](https://github.com/FEMATHS/photo/blob/main/biglogo.JPG?raw=true)
+<div style="text-align: center;">
+  <img src="https://github.com/FEMATHS/photo/blob/main/biglogo.JPG?raw=true" alt="logo">
+</div>
 
 ## 简介 🎈
 
-欢迎来到 FEMATHS 组织的 GitHub 仓库！我们是一个致力于学习和研究有限元、谱元方法（Spectral Element Methods）、PINN（Physics-Informed Neural Networks）以及其他机器学习相关内容的组织。创始人联系到了自己本校的两位同学想要扎根计算数学领域并持续研究的两位同学：✨[zqqqqqqj1110](https://github.com/zqqqqqqj1110)✨,以及 ✨[](https://github.com/zqqqqqqj1110)✨,我们会将自己学习得到的一些成果，一些想法以及组内自我学习得到一些笔记 ✒ 和想法 🧠 发布到这上面，我们已经发表出来的成果将予以展示，由于目前小组内成员处于起步阶段，现阶段并未发表很牛逼的文章，希望在日后的学习和工作中产生更多学术价值，实现自我突破以及为科学界提供更多更好的想法以及优秀的论文。
+欢迎来到 FEMATHS 组织的 GitHub 仓库！我们是一个致力于学习和研究有限元、谱元方法（Spectral Element Methods）、PINN（Physics-Informed Neural Networks）以及其他机器学习相关内容的组织。创始人联系到了自己本校的两位同学想要扎根计算数学领域并持续研究的两位同学：✨[zqqqqqqj1110](https://github.com/zqqqqqqj1110)✨,以及 ✨[JoyBun](https://github.com/zqqqqqqj1110)✨,我们会将自己学习得到的一些成果，一些想法以及组内自我学习得到一些笔记 ✒ 和想法 🧠 发布到这上面，我们已经发表出来的成果将予以展示，由于目前小组内成员处于起步阶段，现阶段并未发表很牛逼的文章，希望在日后的学习和工作中产生更多学术价值，实现自我突破以及为科学界提供更多更好的想法以及优秀的论文。
 
 ## 主要成员 🌿
 
