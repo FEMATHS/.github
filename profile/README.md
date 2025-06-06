@@ -1,8 +1,8 @@
 # FEMATHS
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/FEMATHS/photo/blob/main/biglogo.JPG?raw=true" alt="logo">
-</div>
+</p>
 
 ## 简介 🎈
 
