@@ -12,6 +12,11 @@
 
 - 每天都在产生`bug`且对团队持续产生负面影响的工程师[Tanger](https://github.com/redhat123456)，他每天都在努力地产生`bug`并试图修复他们。
 
+FEMATHS 目前具有来自以下组织或机构的成员（排名不分先后）
+- 桂林电子科技大学
+- The University of New South Wales(新南威尔士大学)
+- 上海交通大学
+
 ## 成果 ⭕
 
 -
