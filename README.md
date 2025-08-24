@@ -1,16 +1,26 @@
 # FEMATHS
 
+<p align="center">
+  <img src="https://github.com/FEMATHS/photo/blob/main/biglogo.JPG?raw=true" alt="logo">
+</p>
+
 ## 简介 🎈
 
-欢迎来到 FEMATHS 组织的 GitHub 仓库！我们是一个致力于学习和研究有限元、谱元方法（Spectral Element Methods）、PINN（Physics-Informed Neural Networks）以及其他计算数学相关内容的组织。创始人联系到了自己本校的两位同学想要扎根计算数学领域并持续研究的两位同学：✨[zqqqqqqj1110](https://github.com/zqqqqqqj1110)✨,以及 ✨[](https://github.com/zqqqqqqj1110)✨,我们会将自己学习得到的一些成果，一些想法以及组内自我学习得到一些笔记 ✒ 和想法 🧠 发布到这上面，我们已经发表出来的成果将予以展示，由于目前小组内成员处于起步阶段，现阶段并未发表很牛逼的文章，希望在日后的学习和工作中产生更多学术价值，实现自我突破以及为科学界提供更多更好的想法以及优秀的论文。
+欢迎来到 FEMATHS 组织的 GitHub 仓库！我们是一个致力于学习和研究有限元、谱元方法（Spectral Element Methods）、PINN（Physics-Informed Neural Networks）以及其他机器学习相关内容的组织。创始人联系到了自己本校的两位同学想要扎根计算数学领域并持续研究的两位同学：✨[zqqqqqqj1110](https://github.com/zqqqqqqj1110)✨,以及 ✨[JoyBun](https://github.com/zqqqqqqj1110)✨,我们会将自己学习得到的一些成果，一些想法以及组内自我学习得到一些笔记 ✒ 和想法 🧠 发布到这上面，我们已经发表出来的成果将予以展示，由于目前小组内成员处于起步阶段，现阶段并未发表很牛逼的文章，希望在日后的学习和工作中产生更多学术价值，实现自我突破以及为科学界提供更多更好的想法以及优秀的论文。
 
 ## 主要成员 🌿
 
 - 每天都在产生`bug`且对团队持续产生负面影响的工程师[Tanger](https://github.com/redhat123456)，他每天都在努力地产生`bug`并试图修复他们。
+- 超级bug工程师[zqqqqqqj1110](https://github.com/zqqqqqqj1110)，梦想是做融合所有AI方向的机器人，同时又作为赏金猎人天天接外包。
+
+FEMATHS 目前具有来自以下组织或机构的成员（排名不分先后）
+- 桂林电子科技大学
+- The University of New South Wales(新南威尔士大学)
+- 上海交通大学
 
 ## 成果 ⭕
 
--
+- FEMATHS主页包括FEMATHS小组成员阅读论文笔记以及计算数学Wiki [https://femaths.github.io/](https://femaths.github.io/)
 
 ## 研究领域 ⚠
 
